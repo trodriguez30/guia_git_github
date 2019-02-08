@@ -28,7 +28,7 @@
 
 - **git rm --cached [file or directory]** #Elimina un archivo o carpeta del **Staging Area** y lo deja en el **Working Directory**.
 
-- **git rm -f [file or directory]** #Fuerza la eliminación de un archivo o carpeta del **Staging Area** tanto así que hasta lo borra del **Working Directory**.
+- **git rm -f [file or directory]** #Forza la eliminación de un archivo o carpeta del **Staging Area** tanto así que hasta lo borra del **Working Directory**.
 
 
 #### Del Staging Area al Repositorio local.
